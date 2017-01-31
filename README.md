@@ -1,2 +1,2 @@
-# CGameCenter-CGC-
+Good Game Galaxy
 My Little Games
