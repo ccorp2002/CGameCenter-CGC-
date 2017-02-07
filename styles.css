@@ -6,5 +6,5 @@ body {
     background-color: Green;
 }
 p {
-  font: Courier New
+  font: "Courier New", Courier, monospace
 }
